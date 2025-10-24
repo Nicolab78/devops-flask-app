@@ -29,3 +29,4 @@ test2# Test 3 hhh test tt hh hh
 # Test final
 # Test permissions Docker
 # Test final avec root
+# Après nettoyage cache
