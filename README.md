@@ -22,3 +22,4 @@ devops-flask-app/
 ├── Dockerfile
 ├── docker-compose.yml
 └── test_app.py## Test du trigger Jenkins
+# Test auto-trigger
